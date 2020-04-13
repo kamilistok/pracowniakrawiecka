@@ -28,7 +28,6 @@
     }
 }
 
-
 .mapText {
     display: flex;
     flex-direction: row;
@@ -37,6 +36,7 @@
     min-height: 50vh;
     font-size: 20px;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 
@@ -50,7 +50,10 @@
 .mapText p {
     text-align: left;
     margin-left: 10px;
+    color: #333;
 }
+
+
 
 .mapText__dh {
     text-align: left;
